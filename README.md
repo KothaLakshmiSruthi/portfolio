@@ -5,10 +5,10 @@
 ## Project content
 
 This project consists for the following files are:
-*index.html
-*styles.css
-*images
+* index.html
+* styles.css
+* images
 
 ## Required Tools
-*HTML
-*CSS
+* HTML
+* CSS
